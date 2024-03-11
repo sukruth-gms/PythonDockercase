@@ -1,1 +1,1 @@
-Flask==0.10.1https://github.com/sukruth-gms/myPythonDockerRepo/tree/master
+Flask==0.10.1
