@@ -3,7 +3,7 @@ stages:
   displayName: Build & Push Docker image to AWS ECR
   jobs:
   - job: Build_and_Push
-    displayName: Build & Push Docker image
+    displayName: Build and Push Docker image
     pool:
       vmImage: ubuntu-latest
     steps:
