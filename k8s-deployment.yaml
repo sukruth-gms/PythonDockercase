@@ -18,7 +18,7 @@ spec:
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
-# service type loadbalancer       
+# service type Loadbalancer       
 ---
 apiVersion: v1
 kind: Service
